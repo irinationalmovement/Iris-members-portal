@@ -35,7 +35,7 @@ export default function Home() {
               <button type="button">دخول</button>
             </form>
           </section>
-        }
+        )}
 
         {tab === "apply" && (
           <section className="card">
